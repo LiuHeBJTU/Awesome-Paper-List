@@ -27,7 +27,7 @@
 
 ## On-Device Recommendation
 ### Year 2022
-+ [**SIGIR**] On-Device Next-item Recommendation with Self-supervised Knowledge Distillation  [[paper]]([https://dl.acm.org/doi/10.1145/3340531.3411954)[[code](https://github.com/xiaxin1998/OD-Rec)]
++ [**SIGIR**] On-Device Next-item Recommendation with Self-supervised Knowledge Distillation  [[paper]](https://dl.acm.org/doi/10.1145/3340531.3411954)[[code](https://github.com/xiaxin1998/OD-Rec)]
 
 ## Graph Representation Learning and Inference
 
