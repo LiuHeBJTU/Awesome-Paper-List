@@ -27,6 +27,7 @@
  + [**CIKM**] Self-supervised Learning for Large-scale Item Recommendations [[paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3481952)
  + [preprint] Contrastive Self-supervised Sequential Recommendation with Robust Augmentation [[paper]](https://arxiv.org/pdf/2108.06479.pdf)[[code]](https://github.com/YChen1993/CoSeRec)
  + [**SIGIR**] Augmenting sequential recommendation with pseudo-prior items via reversely pre-training transformer [[paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3463036)[[code]](https://github.com/DyGRec/ASReP)
+ + [**SIGIR**] Bootstrapping User and Item Representations for One-Class Collaborative Filtering [[paper]](Bootstrapping User and Item Representations for One-Class Collaborative Filtering)[[code]](https://github.com/donalee/BUIR)
  
 ### Year 2020
 + [**CIKM**] S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization  [[paper]](https://dl.acm.org/doi/10.1145/3340531.3411954)[[code]](https://github.com/RUCAIBox/CIKM2020-S3Rec)
