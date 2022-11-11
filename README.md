@@ -8,14 +8,26 @@
 ## Self-Supervised Recommendation
 ### Year 2022
 
- + Towards Extremely Simple Graph Contrastive Learning for Recommendation, preprint [[paper](https://arxiv.org/pdf/2209.02544.pdf)][[code](https://github.com/Coder-Yu/SELFRec)]
- + Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation, **SIGIR'22** [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531937)][[code](https://github.com/Coder-Yu/SELFRec)]
- + Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning, **WWW'22** [[paper](https://arxiv.org/abs/2202.06200)][[code](https://github.com/RUCAIBox/NCL)]
- + Intent Contrastive Learning for Sequential Recommendation, **WWW'22** [[paper](https://dl.acm.org/doi/10.1145/3485447.3512090)][[code](https://github.com/salesforce/ICLRec)]
+ + [preprint] Towards Extremely Simple Graph Contrastive Learning for Recommendation [[paper](https://arxiv.org/pdf/2209.02544.pdf)][[code](https://github.com/Coder-Yu/SELFRec)]
+ + [**SIGIR**] Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531937)][[code](https://github.com/Coder-Yu/SELFRec)]
+ + [**WWW**] Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning [[paper](https://arxiv.org/abs/2202.06200)][[code](https://github.com/RUCAIBox/NCL)]
+ + [**WWW**] Intent Contrastive Learning for Sequential Recommendation [[paper](https://dl.acm.org/doi/10.1145/3485447.3512090)][[code](https://github.com/salesforce/ICLRec)]
+ + [**WSDM**] Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498433)][[code](https://github.com/RuihongQiu/DuoRec)]
 
+### Year 2021
+
+ + [**SIGIR**] Self-supervised Graph Learning for Recommendation [[paper](https://arxiv.org/abs/2010.10783)][[code](https://github.com/wujcan/SGL)]
+ + [**WWW**] Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449844)][[code](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/MHCN.py)]
+ + [**KDD**] Socially-Aware Self-Supervised Tri-training for Recommendation [[paper](https://dl.acm.org/doi/10.1145/3447548.3467340)][[code](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SEPT.py)]
+ + [**AAAI**] Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16578)[[code]](https://github.com/xiaxin1998/DHCN)
+ + [**CIKM**] Self-Supervised Graph Co-training for Session-based Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482388)][[code](https://github.com/xiaxin1998/COTREC)]
+ 
+### Year 2020
++ [**CIKM**] S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization  [[paper]](https://dl.acm.org/doi/10.1145/3340531.3411954)[[code](https://github.com/RUCAIBox/CIKM2020-S3Rec)]
 
 ## On-Device Recommendation
-
+### Year 2022
++ [**SIGIR**] On-Device Next-item Recommendation with Self-supervised Knowledge Distillation  [[paper]]([https://dl.acm.org/doi/10.1145/3340531.3411954)[[code](https://github.com/xiaxin1998/OD-Rec)]
 
 ## Graph Representation Learning and Inference
 
