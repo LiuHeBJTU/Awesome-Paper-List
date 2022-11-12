@@ -11,6 +11,7 @@
  + [preprint] Self-Supervised Learning for Recommender Systems: A Survey [[paper]](https://arxiv.org/abs/2203.15876)
  + [preprint] Towards Extremely Simple Graph Contrastive Learning for Recommendation [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539125)[[code]](https://github.com/lqfarmer/CCDR)
  + [**KDD**] Contrastive Cross-domain Recommendation in Matching [[paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531937)[[code]](https://github.com/Coder-Yu/SELFRec)
+ + [**KDD**] Towards Universal Sequence Representation Learning for Recommender Systems [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539381)[[code]](https://github.com/RUCAIBox/UniSRec)
  + [**SIGIR**] Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation [[paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531937)[[code]](https://github.com/Coder-Yu/SELFRec)
  + [**WWW**] Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning [[paper]](https://arxiv.org/abs/2202.06200)[[code]](https://github.com/RUCAIBox/NCL)
  + [**WWW**] Intent Contrastive Learning for Sequential Recommendation [[paper]](https://dl.acm.org/doi/10.1145/3485447.3512090)[[code]](https://github.com/salesforce/ICLRec)
@@ -29,6 +30,10 @@
  + [preprint] Contrastive Self-supervised Sequential Recommendation with Robust Augmentation [[paper]](https://arxiv.org/pdf/2108.06479.pdf)[[code]](https://github.com/YChen1993/CoSeRec)
  + [**SIGIR**] Augmenting sequential recommendation with pseudo-prior items via reversely pre-training transformer [[paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3463036)[[code]](https://github.com/DyGRec/ASReP)
  + [**SIGIR**] Bootstrapping User and Item Representations for One-Class Collaborative Filtering [[paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462935)[[code]](https://github.com/donalee/BUIR)
+ + [**WSDM**] Bipartite graph embedding via mutual information maximization [[paper]](https://dl.acm.org/doi/10.1145/3437963.3441783)[[code]](https://github.com/caojiangxia/BiGI)
+ + [**WSDM**] Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation [[paper]](https://arxiv.org/abs/2012.07064)[[code]](https://github.com/jerryhao66/Pretrain-Recsys) 
+ + [preprint] One4all User Representation for Recommender Systems in E-commerce [[paper]](https://arxiv.org/abs/2106.00573)
+ + [preprint] Scaling Law for Recommendation Models: Towards General-purpose User Representations [[paper]](https://arxiv.org/abs/2111.11294)
  
 ### Year 2020
 + [**CIKM**] S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization  [[paper]](https://dl.acm.org/doi/10.1145/3340531.3411954)[[code]](https://github.com/RUCAIBox/CIKM2020-S3Rec)
