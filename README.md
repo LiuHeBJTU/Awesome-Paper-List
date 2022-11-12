@@ -4,6 +4,7 @@
 - [On Device Recommendation](#on-device-recommendation)
 - [Graph Representation Learning and Inference](#graph-representation-learning-and-inference)
 - [Decentralized Recommendation](#decentralized-recommendation)
+- [Causal Learning and Inference](#causal-learning-and-inference)
 
 ## Self-Supervised Recommendation
 ### Year 2022
@@ -55,3 +56,5 @@
 ## Graph Representation Learning and Inference
 
 ## Decentralized Recommendation
+
+## Causal Learning and Inference
