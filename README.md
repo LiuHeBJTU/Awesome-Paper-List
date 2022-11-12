@@ -40,10 +40,18 @@
 
 ## On-Device Recommendation
 ### Year 2022
-+ [preprint] Efficient On-Device Session-based Recommendation  [[paper]](https://arxiv.org/pdf/2209.13422.pdf)[[code]](https://github.com/xiaxin1998/EOD-Rec)
-
-+ [**SIGIR**] On-Device Next-item Recommendation with Self-supervised Knowledge Distillation  [[paper]](https://dl.acm.org/doi/10.1145/3340531.3411954)[[code]](https://github.com/xiaxin1998/OD-Rec)
-
++ [preprint] Efficient On-device Session-based Recommendation  [[paper]](https://arxiv.org/pdf/2209.13422.pdf)[[code]](https://github.com/xiaxin1998/EOD-Rec) 
++ [**SIGIR**] On-Device Next-item Recommendation with Self-supervised Knowledge Distillation  [[paper]](https://dl.acm.org/doi/10.1145/3340531.3411954)[[code]](https://github.com/xiaxin1998/OD-Rec) 
+### Year 2021
++ [**KDD**] Learning Elastic Embeddings for Customizing On-device Recommenders  [[paper]](https://dl.acm.org/doi/10.1145/3447548.3467220)
++ [**WWW**] DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce  [[paper]](https://doi.org/10.1145/3442381.3449942) [[code]](https://github.com/hanjialiang/DeepRec)
++ [**TIOT**] A Survey of On-device Machine Learning: An Algorithms and Learning Theory Perspective [[paper]](https://doi.org/10.1145/3450494)
+### Year 2020
++ [**WWW**] Next Point-of-Interest Recommendation on Resource-constrained Mobile Devices  [[paper]](https://doi.org/10.1145/3366423.3380170)
+### Year 2019
++ [**CARS**] On-device User Intent Prediction for Context and Sequence Aware Recommendation [[paper]](https://arxiv.org/pdf/1909.12756.pdf)
++ [**KDD**] Real-time On-device Troubleshooting Recommendation for Smartphones [[paper]](https://doi.org/10.1145/3292500.3330669)
++ [preprint] On-device Neural Net Inference with Mobile GPUs [[paper]](https://arxiv.org/abs/1907.01989)
 ## Graph Representation Learning and Inference
 
 ## Decentralized Recommendation
