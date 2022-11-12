@@ -8,7 +8,7 @@
 ## Self-Supervised Recommendation
 ### Year 2022
 
- + [preprint] Towards Extremely Simple Graph Contrastive Learning for Recommendation [[paper]](https://arxiv.org/abs/2203.15876)
+ + [preprint] Self-Supervised Learning for Recommender Systems: A Survey [[paper]](https://arxiv.org/abs/2203.15876)
  + [preprint] Towards Extremely Simple Graph Contrastive Learning for Recommendation [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539125)[[code]](https://github.com/lqfarmer/CCDR)
  + [**KDD**] Contrastive Cross-domain Recommendation in Matching [[paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531937)[[code]](https://github.com/Coder-Yu/SELFRec)
  + [**SIGIR**] Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation [[paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531937)[[code]](https://github.com/Coder-Yu/SELFRec)
