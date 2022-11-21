@@ -81,4 +81,7 @@
 
 ## Decentralized Recommendation
 
+### Year 2022
++ [**Preprint**] LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization [[Paper]](https://arxiv.org/pdf/2206.11743.pdf)
+
 ## Causal Learning and Inference
