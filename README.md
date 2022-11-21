@@ -119,7 +119,7 @@
 + [**Preprint**] Robust Federated Recommendation System [[Paper]](https://arxiv.org/abs/2006.08259)
 
 ### Year 2019
-+ [**Preprint**] Federated Meta-Learning with Fast Convergence and Efficient Communication [[Paper]](https://arxiv.org/pdf/1802.07876.pdf) [[Code]](https://github.com/ddayzzz/federated-meta)
-+ [**Preprint**] Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System [[Paper]](https://arxiv.org/abs/1901.09888)
++ [Preprint] Federated Meta-Learning with Fast Convergence and Efficient Communication [[Paper]](https://arxiv.org/pdf/1802.07876.pdf) [[Code]](https://github.com/ddayzzz/federated-meta)
++ [Preprint] Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System [[Paper]](https://arxiv.org/abs/1901.09888)
 
 ## Causal Learning and Inference
