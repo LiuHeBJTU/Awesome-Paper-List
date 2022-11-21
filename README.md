@@ -116,7 +116,7 @@
 + [**KDD**] FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3403176)
 + [**ISIT**] Federated Recommendation System via Differential Privacy [[Paper]](https://ieeexplore.ieee.org/document/9174297)
 + [**SRDS**] On the Detection of Shilling Attacks in Federated Collaborative Filtering [[Paper]](https://ieeexplore.ieee.org/document/9252070)
-+ [**Preprint**] Robust Federated Recommendation System [[Paper]](https://arxiv.org/abs/2006.08259)
++ [Preprint] Robust Federated Recommendation System [[Paper]](https://arxiv.org/abs/2006.08259)
 
 ### Year 2019
 + [Preprint] Federated Meta-Learning with Fast Convergence and Efficient Communication [[Paper]](https://arxiv.org/pdf/1802.07876.pdf) [[Code]](https://github.com/ddayzzz/federated-meta)
