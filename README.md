@@ -108,7 +108,6 @@
 + [**RecSys**] Horizontal Cross-Silo Federated Recommender Systems [[Paper]](https://dl.acm.org/doi/10.1145/3460231.3478863)
 + [**ECML-PKDD**] Federated Multi-view Matrix Factorization for Personalized Recommendations [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-67661-2_20)
 + [**ECIR**] Robustness of Meta Matrix Factorization Against Strict Privacy Constraints [[Paper]](https://arxiv.org/abs/2101.06927)
-+ [**WWW**] DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce [[Paper]](https://dl.acm.org/doi/10.1145/3442381.3449942)
 + [**IEEE IS**] Secure Federated Matrix Factorization [[Paper]](https://ieeexplore.ieee.org/document/9162459)[[Code]](https://github.com/Di-Chai/FedMF)
 
 ### Year 2020
