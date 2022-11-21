@@ -83,5 +83,43 @@
 
 ### Year 2022
 + [**Preprint**] LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization [[Paper]](https://arxiv.org/pdf/2206.11743.pdf)
++ [**Preprint**] FedRule: Federated Rule Recommendation System with Graph Neural Networks [[Paper]](https://arxiv.org/pdf/2211.06812.pdf)
++ [**Preprint**] Practical and Secure Federated Recommendation with Personalized Masks [[Paper]](https://arxiv.org/pdf/2109.02464.pdf)
++ [**Preprint**] FedCL: Federated Contrastive Learning for Privacy-Preserving Recommendation [[Paper]](https://arxiv.org/pdf/2204.09850.pdf)
++ [**Preprint**] FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling [[Paper]](https://arxiv.org/pdf/2202.04975.pdf)
++ [**Nature Communications**] A federated graph neural network framework for privacy-preserving personalization [[Paper]](https://www.nature.com/articles/s41467-022-30714-9)[[Code]](https://www.nature.com/articles/s41467-022-30714-9)
++ [**Knowledge-based Systems**] Federated Neural Collaborative Filtering [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705122001812)
++ [**TIST**] Federated Social Recommendation with Graph Neural Network [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3501815)
++ [**Preprint**] FedGRec: Federated Graph Recommender System with Lazy Update of Latent Embeddings [[Paper]](https://arxiv.org/pdf/2210.13686.pdf)
++ [**JIIS**] User-controlled federated matrix factorization for recommender systems [[Paper]](https://link.springer.com/article/10.1007/s10844-021-00688-z)
+
+### Year 2021
++ [**WSDM**] PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion [[Paper]](https://dl.acm.org/doi/10.1145/3488560.3498386)
++ [**WWW**] Hierarchical Personalized Federated Learning for User Modeling [[Paper]](https://dl.acm.org/doi/10.1145/3442381.3449926)
++ [**VLDBJ**] Fast-adapting and Privacy-preserving Federated Recommender System [[Paper]](https://link.springer.com/article/10.1007/s00778-021-00700-6)
++ [**Preprint**] Learning Federated Representations and Recommendations with Limited Negatives [[Paper]](https://arxiv.org/pdf/2108.07931.pdf)
++ [**RecSys**] Stronger Privacy for Federated Collaborative Filtering With Implicit Feedback [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3460231.3474262)
++ [**SIGIR**] FedCT: Federated Collaborative Transfer for Recommendation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462825)
++ [**RecSys**] FR-FMSS: Federated Recommendation via Fake Marks and Secret Sharing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3478855)
++ [**SIGIR**] Meta Matrix Factorization for Federated Rating Predictions [[Paper]](https://dl.acm.org/doi/10.1145/3397271.3401081)
++ [**IEEE IS**] FedRec: Federated Recommendation With Explicit Feedback [[Paper]](https://ieeexplore.ieee.org/document/9170754)
++ [**AAAI**] FedRec++: Lossless Federated Recommendation with Explicit Feedback [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16546)
++ [**RecSys**] A Payload Optimization Method for Federated Recommender Systems [[Paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3474257)
++ [**RecSys**] Horizontal Cross-Silo Federated Recommender Systems [[Paper]](https://dl.acm.org/doi/10.1145/3460231.3478863)
++ [**JECMLKDD**] Federated Multi-view Matrix Factorization for Personalized Recommendations [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-67661-2_20)
++ [**ECIR**] Robustness of Meta Matrix Factorization Against Strict Privacy Constraints [[Paper]](https://arxiv.org/abs/2101.06927)
++ [**WWW**] DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce [[Paper]](https://dl.acm.org/doi/10.1145/3442381.3449942)
++ [**IEEE IS**] Secure Federated Matrix Factorization [[Paper]](https://ieeexplore.ieee.org/document/9162459)[[Code]](https://github.com/Di-Chai/FedMF)
+
+### Year 2020
++ [**EMNLP**] Privacy-Preserving News Recommendation Model Learning [[Paper]](https://aclanthology.org/2020.findings-emnlp.128/)
++ [**KDD**] FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3403176)
++ [**ISIT**] Federated Recommendation System via Differential Privacy [[Paper]](https://ieeexplore.ieee.org/document/9174297)
++ [**SRDS**] On the Detection of Shilling Attacks in Federated Collaborative Filtering [[Paper]](https://ieeexplore.ieee.org/document/9252070)
++ [**Preprint**] Robust Federated Recommendation System [[Paper]](https://arxiv.org/abs/2006.08259)
+
+### Year 2019
++ [**Preprint**] Federated Meta-Learning with Fast Convergence and Efficient Communication [[Paper]](https://arxiv.org/pdf/1802.07876.pdf) [[Code]](https://github.com/ddayzzz/federated-meta)
++ [**Preprint**] Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System [[Paper]](https://arxiv.org/abs/1901.09888)
 
 ## Causal Learning and Inference
