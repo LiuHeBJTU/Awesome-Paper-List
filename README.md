@@ -3,7 +3,7 @@
 - [Self-Supervised Recommendation](#self-supervised-recommendation)
 - [On Device Recommendation](#on-device-recommendation)
 - [Graph Representation Learning and Inference](#graph-representation-learning-and-inference)
-- [Decentralized Recommendation](#decentralized-recommendation)
+- [Decentralized/Federated Recommendation](#decentralizedfederated-recommendation)
 - [Causal Learning and Inference](#causal-learning-and-inference)
 
 ## Self-Supervised Recommendation
@@ -79,14 +79,14 @@
 ### Year 2017
 + [**NeurIPS**] Inductive Representation Learning on Large Graphs [[paper]](https://arxiv.org/abs/1706.02216) [[code]](https://github.com/twjiang/graphSAGE-pytorch)
 
-## Decentralized Recommendation
+## Decentralized/Federated Recommendation
 
 ### Year 2022
-+ [**Preprint**] LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization [[Paper]](https://arxiv.org/pdf/2206.11743.pdf)
-+ [**Preprint**] FedRule: Federated Rule Recommendation System with Graph Neural Networks [[Paper]](https://arxiv.org/pdf/2211.06812.pdf)
-+ [**Preprint**] Practical and Secure Federated Recommendation with Personalized Masks [[Paper]](https://arxiv.org/pdf/2109.02464.pdf)
-+ [**Preprint**] FedCL: Federated Contrastive Learning for Privacy-Preserving Recommendation [[Paper]](https://arxiv.org/pdf/2204.09850.pdf)
-+ [**Preprint**] FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling [[Paper]](https://arxiv.org/pdf/2202.04975.pdf)
++ [Preprint] LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization [[Paper]](https://arxiv.org/pdf/2206.11743.pdf)
++ [Preprint] FedRule: Federated Rule Recommendation System with Graph Neural Networks [[Paper]](https://arxiv.org/pdf/2211.06812.pdf)
++ [Preprint] Practical and Secure Federated Recommendation with Personalized Masks [[Paper]](https://arxiv.org/pdf/2109.02464.pdf)
++ [Preprint] FedCL: Federated Contrastive Learning for Privacy-Preserving Recommendation [[Paper]](https://arxiv.org/pdf/2204.09850.pdf)
++ [Preprint] FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling [[Paper]](https://arxiv.org/pdf/2202.04975.pdf)
 + [**Nature Communications**] A federated graph neural network framework for privacy-preserving personalization [[Paper]](https://www.nature.com/articles/s41467-022-30714-9)[[Code]](https://www.nature.com/articles/s41467-022-30714-9)
 + [**Knowledge-based Systems**] Federated Neural Collaborative Filtering [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705122001812)
 + [**TIST**] Federated Social Recommendation with Graph Neural Network [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3501815)
@@ -106,7 +106,7 @@
 + [**AAAI**] FedRec++: Lossless Federated Recommendation with Explicit Feedback [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16546)
 + [**RecSys**] A Payload Optimization Method for Federated Recommender Systems [[Paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3474257)
 + [**RecSys**] Horizontal Cross-Silo Federated Recommender Systems [[Paper]](https://dl.acm.org/doi/10.1145/3460231.3478863)
-+ [**JECMLKDD**] Federated Multi-view Matrix Factorization for Personalized Recommendations [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-67661-2_20)
++ [**ECML-PKDD**] Federated Multi-view Matrix Factorization for Personalized Recommendations [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-67661-2_20)
 + [**ECIR**] Robustness of Meta Matrix Factorization Against Strict Privacy Constraints [[Paper]](https://arxiv.org/abs/2101.06927)
 + [**WWW**] DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce [[Paper]](https://dl.acm.org/doi/10.1145/3442381.3449942)
 + [**IEEE IS**] Secure Federated Matrix Factorization [[Paper]](https://ieeexplore.ieee.org/document/9162459)[[Code]](https://github.com/Di-Chai/FedMF)
