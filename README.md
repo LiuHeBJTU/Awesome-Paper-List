@@ -59,7 +59,7 @@
 + [**KDD**] Graph Attention Multi-Layer Perceptron [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539121) [[code]](https://github.com/zwt233/GAMLP)
 ### Year 2021
 + [**ICLR**] Simple Spectral Graph Convolution [[paper]](https://openreview.net/forum?id=CYO5T-YjWZV) [[code]](https://github.com/allenhaozhu/SSGC)
-+ [**NeurIPS**] Node Dependent Local Smoothing for Scalable Graph Learnin [[paper]](https://arxiv.org/abs/2110.14377) [[code]](https://github.com/zwt233/NDLS)
++ [**NeurIPS**] Node Dependent Local Smoothing for Scalable Graph Learning [[paper]](https://arxiv.org/abs/2110.14377) [[code]](https://github.com/zwt233/NDLS)
 + [**ICML**] GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings [[paper]](https://arxiv.org/abs/2106.05609) [[code]](https://github.com/rusty1s/pyg_autoscale)
 + [**PVLDB**] Accelerating Large Scale Real-Time GNN Inference using Channel Pruning [[paper]](https://arxiv.org/abs/2105.04528) [[code]](https://github.com/tedzhouhk/GCNP)
 ### Year 2020
