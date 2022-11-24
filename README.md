@@ -57,6 +57,7 @@
 ## Graph Representation Learning and Inference
 ### Year 2022
 + [**KDD**] Graph Attention Multi-Layer Perceptron [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539121) [[code]](https://github.com/zwt233/GAMLP)
++ [**ECCV**] Self-supervised Learning of Visual Graph Matching [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830359.pdf) [[code]](https://github.com/Thinklab-SJTU/ThinkMatch-SCGM)
 ### Year 2021
 + [**ICLR**] Simple Spectral Graph Convolution [[paper]](https://openreview.net/forum?id=CYO5T-YjWZV) [[code]](https://github.com/allenhaozhu/SSGC)
 + [**NeurIPS**] Node Dependent Local Smoothing for Scalable Graph Learning [[paper]](https://arxiv.org/abs/2110.14377) [[code]](https://github.com/zwt233/NDLS)
