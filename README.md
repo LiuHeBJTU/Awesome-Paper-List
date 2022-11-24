@@ -122,9 +122,23 @@
 + [Preprint] Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System [[Paper]](https://arxiv.org/abs/1901.09888)
 
 ## Causal Learning and Inference
+### Year 2022
++ [Preprint] To Impute or not to Impute? Missing Data in Treatment Effect Estimation [[Paper]]([https://arxiv.org/abs/1901.09888](https://arxiv.org/abs/2202.02096))
 
 ### Year 2020
++ [**ICML**] DeepMatch: balancing deep covariate representations for causal inference using adversarial training [[Paper]](https://dl.acm.org/doi/abs/10.5555/3524938.3525408)
+
 ### Year 2019
++ [**NeurIPS**] Adapting neural networks for the estimation of treatment effects [[Paper]](https://dl.acm.org/doi/10.5555/3454287.3454512)
+
 ### Year 2018
++ [**NeurIPS**] Causal effect inference with deep latent-variable models [[Paper]](https://dl.acm.org/doi/10.5555/3295222.3295391)
++ [**NeurIPS**] Representation learning for treatment effect estimation from observational data [[Paper]](https://dl.acm.org/doi/10.5555/3327144.3327188)
++ [**ICLR**] GANITE: Estimation of Individual Treatment Effects Using Generative Adversarial Nets [[Paper]](https://openreview.net/forum?id=ByKWUeWA-)
+
 ### Year 2017
++ [**ICML**] Estimating individual treatment effect: generalization bounds and algorithms [[Paper]](https://dl.acm.org/doi/10.5555/3305890.3305999)
++ [**NeurIPS**] Bayesian inference of individualized treatment effects using multi-task Gaussian processes [[Paper]](https://dl.acm.org/doi/10.5555/3294996.3295101)
+
 ### Year 2016
++ [**ICML**] Learning Representations for Counterfactual Inference [[Paper]](https://dl.acm.org/doi/10.5555/3045390.3045708)
