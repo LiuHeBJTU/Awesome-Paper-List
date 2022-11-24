@@ -123,10 +123,19 @@
 
 ## Causal Learning and Inference
 ### Year 2022
-+ [Preprint] To Impute or not to Impute? Missing Data in Treatment Effect Estimation [[Paper]]([https://arxiv.org/abs/1901.09888](https://arxiv.org/abs/2202.02096))
++ [Preprint] To Impute or not to Impute? Missing Data in Treatment Effect Estimation [[Paper]](https://arxiv.org/abs/2202.02096)
++ [**NeurIPS**] Scalable Sensitivity and Uncertainty Analysis for Causal-Effect Estimates of Continuous-Valued Interventions [[Paper]](https://openreview.net/forum?id=PzI4ow094E)
+
+
+### Year 2021
++ [Preprint] On Feature Collapse and Deep Kernel Learning for Single Forward Pass Uncertainty [[Paper]](https://arxiv.org/abs/2102.11409)
++ [**ICML**] Quantifying Ignorance in Individual-Level Causal-Effect Estimates under Hidden Confounding [[Paper]](https://proceedings.mlr.press/v139/jesson21a.html)
++ [**TKDD**] A Survey on Causal Inference [[Paper]]([https://proceedings.mlr.press/v139/jesson21a.html](https://dl.acm.org/doi/10.1145/3444944))
 
 ### Year 2020
 + [**ICML**] DeepMatch: balancing deep covariate representations for causal inference using adversarial training [[Paper]](https://dl.acm.org/doi/abs/10.5555/3524938.3525408)
++ [**NeurIPS**] Identifying causal-effect inference failure with uncertainty-aware models [[Paper]](https://dl.acm.org/doi/abs/10.5555/3495724.3496700)
++ [**UAI**] Identifying causal-effect inference failure with uncertainty-aware models [[Paper]](https://arxiv.org/abs/2011.12379)
 
 ### Year 2019
 + [**NeurIPS**] Adapting neural networks for the estimation of treatment effects [[Paper]](https://dl.acm.org/doi/10.5555/3454287.3454512)
