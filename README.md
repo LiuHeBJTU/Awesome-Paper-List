@@ -58,25 +58,34 @@
 ### Year 2022
 + [**KDD**] Graph Attention Multi-Layer Perceptron [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539121) [[code]](https://github.com/zwt233/GAMLP)
 + [**ECCV**] Self-supervised Learning of Visual Graph Matching [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830359.pdf) [[code]](https://github.com/Thinklab-SJTU/ThinkMatch-SCGM)
++ [**CVPR**] Appearance and Structure Aware Robust Deep Visual Graph Matching: Attack, Defense and Beyond [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Appearance_and_Structure_Aware_Robust_Deep_Visual_Graph_Matching_Attack_CVPR_2022_paper.pdf) [[code]](https://github.com/Thinklab-SJTU/RobustMatch)
 ### Year 2021
 + [**ICLR**] Simple Spectral Graph Convolution [[paper]](https://openreview.net/forum?id=CYO5T-YjWZV) [[code]](https://github.com/allenhaozhu/SSGC)
 + [**NeurIPS**] Node Dependent Local Smoothing for Scalable Graph Learning [[paper]](https://arxiv.org/abs/2110.14377) [[code]](https://github.com/zwt233/NDLS)
 + [**ICML**] GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings [[paper]](https://arxiv.org/abs/2106.05609) [[code]](https://github.com/rusty1s/pyg_autoscale)
 + [**PVLDB**] Accelerating Large Scale Real-Time GNN Inference using Channel Pruning [[paper]](https://arxiv.org/abs/2105.04528) [[code]](https://github.com/tedzhouhk/GCNP)
++ [**CVPR**] Deep Graph Matching under Quadratic Constraint [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Deep_Graph_Matching_Under_Quadratic_Constraint_CVPR_2021_paper.pdf) [[code]](https://github.com/Zerg-Overmind/QC-DGM)
++ [**ICML**] Deep Latent Graph Matching [[paper]](http://proceedings.mlr.press/v139/yu21d/yu21d.pdf)
++ [**TPAMI**] Neural Graph Matching Network: Learning Lawler's Quadratic Assignment Problem with Extension to Hypergraph and Multiple-graph Matching [[paper]](https://arxiv.org/abs/1911.11308) [[code]](https://github.com/Thinklab-SJTU/ThinkMatch)
 ### Year 2020
 + [**NeurIPS**] Scalable Graph Neural Networks via Bidirectional Propagation [[paper]](https://arxiv.org/abs/2010.15421)[[code]](https://github.com/chennnM/GBP)
 + [**ICML**] SIGN: Scalable Inception Graph Neural Networks [[paper]](https://arxiv.org/abs/2004.11198)[[code]](https://github.com/twitter-research/sign)
 + [**KDD**] Scaling Graph Neural Networks with Approximate PageRank [[paper]](https://arxiv.org/abs/2007.01570) [[code]](https://github.com/TUM-DAML/pprgo_pytorch)
 + [**ICLR**] GraphSAINT: Graph Sampling Based Inductive Learning Method [[paper]](https://arxiv.org/abs/1907.04931) [[code]](https://github.com/GraphSAINT/GraphSAINT)
++ [**ECCV**] Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730409.pdf) [[code]](https://github.com/martius-lab/blackbox-deep-graph-matching)
++ [**CVPR**] Learning Combinatorial Solver for Graph Matching [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_Combinatorial_Solver_for_Graph_Matching_CVPR_2020_paper.pdf) [[code]](https://www.cs.stonybrook.edu/˜hling/code/LearningGraphMatching.zip.)
 ### Year 2019
 + [**ICML**] Simplifying Graph Convolutional Networks [[paper]](https://arxiv.org/abs/1902.07153)[[code]](https://github.com/Tiiiger/SGC)
 + [**KDD**] Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks [[paper]](https://arxiv.org/abs/1905.07953) [[code]](https://github.com/google-research/google-research/tree/master/cluster_gcn)
++ [**ICCV**] Learning Combinatorial Embedding Networks for Deep Graph Matching [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Learning_Combinatorial_Embedding_Networks_for_Deep_Graph_Matching_ICCV_2019_paper.pdf) [[code]](https://github.com/Thinklab-SJTU/ThinkMatch)
++ [**ICCV**] Deep Graphical Feature Learning for the Feature Matching Problem [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Deep_Graphical_Feature_Learning_for_the_Feature_Matching_Problem_ICCV_2019_paper.pdf) [[code]](https://github.com/zzhang1987/Deep-Graphical-Feature-Learning)
 ### Year 2018
 + [**KDD**] Graph Convolutional Neural Networks for Web-Scale Recommender Systems [[paper]](https://arxiv.org/abs/1806.01973)
 + [**KDD**] Large-Scale Learnable Graph Convolutional Networks [[paper]](https://dl.acm.org/doi/abs/10.1145/3219819.3219947) [[code]](https://github.com/divelab/lgcn) 
 + [**ICLR**] FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling [[paper]](https://arxiv.org/abs/1801.10247)[[code]](https://github.com/matenure/FastGCN)
 + [**ICML**] Stochastic Training of Graph Convolutional Networks with Variance Reduction [[paper]](https://arxiv.org/abs/1710.10568) [[code]](https://github.com/thu-ml/stochastic_gcn)
 + [**NeurIPS**] Adaptive Sampling Towards Fast Graph Representation Learning [[paper]](https://arxiv.org/abs/1809.05343) [[code_pytorch]](https://github.com/dmlc/dgl/tree/master/examples/pytorch/_deprecated/adaptive_sampling) [[code_tentsor_flow]](https://github.com/huangwb/AS-GCN)
++ [**CVPR**] Deep Learning of Graph Matching [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zanfir_Deep_Learning_of_CVPR_2018_paper.pdf)
 ### Year 2017
 + [**NeurIPS**] Inductive Representation Learning on Large Graphs [[paper]](https://arxiv.org/abs/1706.02216) [[code]](https://github.com/twjiang/graphSAGE-pytorch)
 
